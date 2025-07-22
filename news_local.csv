@@ -1,7 +1,6 @@
-2025-07-13 21:30;2;TEST
-2025-01-01 00:30;2;API Weekly Crude Oil Stock
-2025-01-02 10:00;2;Nationwide HPI (YoY)  (Dec)
+﻿2025-01-01 00:30;2;API Weekly Crude Oil Stock
 2025-01-02 10:00;2;Nationwide HPI (MoM)  (Dec)
+2025-01-02 10:00;2;Nationwide HPI (YoY)  (Dec)
 2025-01-02 16:30;2;Continuing Jobless Claims
 2025-01-02 16:30;3;Initial Jobless Claims
 2025-01-02 18:00;2;Construction Spending (MoM)  (Nov)
@@ -30,11 +29,11 @@
 2025-01-06 23:30;2;CFTC EUR speculative net positions
 2025-01-07 03:01;2;BRC Retail Sales Monitor (YoY)  (Dec)
 2025-01-07 06:35;2;10-Year JGB Auction
-2025-01-07 10:00;2;Halifax House Price Index (MoM)  (Dec)
 2025-01-07 10:00;2;Halifax House Price Index (YoY)  (Dec)
+2025-01-07 10:00;2;Halifax House Price Index (MoM)  (Dec)
 2025-01-07 13:00;2;Core CPI (YoY)  (Dec)
-2025-01-07 13:00;2;CPI (MoM)  (Dec)
 2025-01-07 13:00;3;CPI (YoY)  (Dec)
+2025-01-07 13:00;2;CPI (MoM)  (Dec)
 2025-01-07 13:00;2;Unemployment Rate  (Nov)
 2025-01-07 16:30;2;Exports  (Nov)
 2025-01-07 16:30;2;Imports  (Nov)
@@ -64,10 +63,10 @@
 2025-01-09 17:00;2;FOMC Member Harker Speaks
 2025-01-09 19:30;2;Atlanta Fed GDPNow  (Q4)
 2025-01-09 21:35;2;FOMC Member Bowman Speaks
-2025-01-10 02:30;2;Household Spending (YoY)  (Nov)
 2025-01-10 02:30;2;Household Spending (MoM)  (Nov)
-2025-01-10 16:30;3;Average Hourly Earnings (MoM)  (Dec)
+2025-01-10 02:30;2;Household Spending (YoY)  (Nov)
 2025-01-10 16:30;2;Average Hourly Earnings (YoY) (YoY)  (Dec)
+2025-01-10 16:30;3;Average Hourly Earnings (MoM)  (Dec)
 2025-01-10 16:30;3;Nonfarm Payrolls  (Dec)
 2025-01-10 16:30;2;Participation Rate  (Dec)
 2025-01-10 16:30;2;Private Nonfarm Payrolls  (Dec)
@@ -106,8 +105,8 @@
 2025-01-14 23:05;2;FOMC Member Williams Speaks
 2025-01-15 00:30;2;API Weekly Crude Oil Stock
 2025-01-15 06:15;2;ECB's Lane Speaks
-2025-01-15 10:00;3;CPI (YoY)  (Dec)
 2025-01-15 10:00;2;CPI (MoM)  (Dec)
+2025-01-15 10:00;3;CPI (YoY)  (Dec)
 2025-01-15 10:00;2;CPIH (YoY)
 2025-01-15 10:00;2;PPI Input (MoM)  (Dec)
 2025-01-15 11:00;2;ECB's De Guindos Speaks
@@ -116,8 +115,8 @@
 2025-01-15 15:00;2;OPEC Monthly Report
 2025-01-15 16:30;3;Core CPI (MoM)  (Dec)
 2025-01-15 16:30;2;Core CPI (YoY)  (Dec)
-2025-01-15 16:30;3;CPI (YoY)  (Dec)
 2025-01-15 16:30;3;CPI (MoM)  (Dec)
+2025-01-15 16:30;3;CPI (YoY)  (Dec)
 2025-01-15 16:30;2;NY Empire State Manufacturing Index  (Jan)
 2025-01-15 18:00;2;FOMC Member Kashkari Speaks
 2025-01-15 18:30;3;Crude Oil Inventories
@@ -156,18 +155,18 @@
 2025-01-17 05:00;2;Chinese Industrial Production YTD  (YoY)  (Dec)
 2025-01-17 05:00;2;Chinese Unemployment Rate  (Dec)
 2025-01-17 05:00;2;NBS Press Conference
-2025-01-17 10:00;2;Core Retail Sales (YoY)  (Dec)
 2025-01-17 10:00;2;Core Retail Sales (MoM)  (Dec)
-2025-01-17 10:00;2;Retail Sales (YoY)  (Dec)
+2025-01-17 10:00;2;Core Retail Sales (YoY)  (Dec)
 2025-01-17 10:00;2;Retail Sales (MoM)  (Dec)
+2025-01-17 10:00;2;Retail Sales (YoY)  (Dec)
 2025-01-17 13:00;2;Core CPI (YoY)  (Dec)
 2025-01-17 13:00;2;CPI (MoM)  (Dec)
 2025-01-17 13:00;3;CPI (YoY)  (Dec)
 2025-01-17 16:30;2;Building Permits  (Dec)
-2025-01-17 16:30;2;Housing Starts  (Dec)
 2025-01-17 16:30;2;Housing Starts (MoM)  (Dec)
-2025-01-17 17:15;2;Industrial Production (MoM)  (Dec)
+2025-01-17 16:30;2;Housing Starts  (Dec)
 2025-01-17 17:15;2;Industrial Production (YoY)  (Dec)
+2025-01-17 17:15;2;Industrial Production (MoM)  (Dec)
 2025-01-17 20:00;2;BoE Deputy Governor Woods Speaks
 2025-01-17 20:00;2;BoE Gov Bailey Speaks
 2025-01-17 20:15;2;Atlanta Fed GDPNow  (Q4)
@@ -213,8 +212,8 @@
 2025-01-24 06:20;3;BoJ Interest Rate Decision
 2025-01-24 09:30;2;BoJ Press Conference
 2025-01-24 13:00;2;ECB President Lagarde Speaks
-2025-01-24 18:00;2;Existing Home Sales (MoM)  (Dec)
 2025-01-24 18:00;3;Existing Home Sales  (Dec)
+2025-01-24 18:00;2;Existing Home Sales (MoM)  (Dec)
 2025-01-24 18:00;2;Michigan 1-Year Inflation Expectations  (Jan)
 2025-01-24 18:00;2;Michigan 5-Year Inflation Expectations  (Jan)
 2025-01-24 18:00;2;Michigan Consumer Expectations  (Jan)
@@ -241,8 +240,8 @@
 2025-01-28 08:00;2;BoJ Core CPI (YoY)
 2025-01-28 16:30;2;Core Durable Goods Orders (MoM)  (Dec)
 2025-01-28 16:30;3;Durable Goods Orders (MoM)  (Dec)
-2025-01-28 17:00;2;S&P/CS HPI Composite - 20 n.s.a. (MoM)  (Nov)
 2025-01-28 17:00;2;S&P/CS HPI Composite - 20 n.s.a. (YoY)  (Nov)
+2025-01-28 17:00;2;S&P/CS HPI Composite - 20 n.s.a. (MoM)  (Nov)
 2025-01-28 18:00;3;CB Consumer Confidence  (Jan)
 2025-01-28 19:30;2;Atlanta Fed GDPNow  (Q4)
 2025-01-28 20:00;2;ECB President Lagarde Speaks
@@ -276,14 +275,14 @@
 2025-01-31 00:30;2;Fed's Balance Sheet
 2025-01-31 02:30;2;Tokyo Core CPI (YoY)  (Jan)
 2025-01-31 02:50;2;Industrial Production (MoM)  (Dec)
-2025-01-31 10:00;2;Nationwide HPI (MoM)  (Jan)
 2025-01-31 10:00;2;Nationwide HPI (YoY)  (Jan)
-2025-01-31 16:30;3;Core PCE Price Index (YoY)  (Dec)
+2025-01-31 10:00;2;Nationwide HPI (MoM)  (Jan)
 2025-01-31 16:30;3;Core PCE Price Index (MoM)  (Dec)
+2025-01-31 16:30;3;Core PCE Price Index (YoY)  (Dec)
 2025-01-31 16:30;2;Employment Cost Index (QoQ)  (Q4)
 2025-01-31 16:30;2;FOMC Member Bowman Speaks
-2025-01-31 16:30;2;PCE Price index (YoY)  (Dec)
 2025-01-31 16:30;2;PCE price index (MoM)  (Dec)
+2025-01-31 16:30;2;PCE Price index (YoY)  (Dec)
 2025-01-31 16:30;2;Personal Spending (MoM)  (Dec)
 2025-01-31 17:45;3;Chicago PMI  (Jan)
 2025-01-31 18:30;2;Atlanta Fed GDPNow  (Q1)
@@ -299,8 +298,8 @@
 2025-02-01 09:00;2;Indian Union Budget
 2025-02-03 13:00;2;OPEC Meeting
 2025-02-03 13:00;2;Core CPI (YoY)  (Jan)
-2025-02-03 13:00;3;CPI (YoY)  (Jan)
 2025-02-03 13:00;2;CPI (MoM)  (Jan)
+2025-02-03 13:00;3;CPI (YoY)  (Jan)
 2025-02-03 18:00;2;Construction Spending (MoM)  (Dec)
 2025-02-03 18:00;2;ISM Manufacturing Employment  (Jan)
 2025-02-03 18:00;3;ISM Manufacturing PMI  (Jan)
@@ -339,11 +338,11 @@
 2025-02-06 23:30;2;FOMC Member Daly Speaks
 2025-02-07 00:05;2;BoE Gov Bailey Speaks
 2025-02-07 00:30;2;Fed's Balance Sheet
-2025-02-07 02:30;2;Household Spending (YoY)  (Dec)
 2025-02-07 02:30;2;Household Spending (MoM)  (Dec)
+2025-02-07 02:30;2;Household Spending (YoY)  (Dec)
 2025-02-07 07:30;2;Interest Rate Decision
-2025-02-07 10:00;2;Halifax House Price Index (YoY)  (Jan)
 2025-02-07 10:00;2;Halifax House Price Index (MoM)  (Jan)
+2025-02-07 10:00;2;Halifax House Price Index (YoY)  (Jan)
 2025-02-07 11:45;2;ECB's De Guindos Speaks
 2025-02-07 12:30;2;Mortgage Rate (GBP)  (Jan)
 2025-02-07 15:15;2;BoE MPC Member Pill Speaks
@@ -372,8 +371,8 @@
 2025-02-07 23:30;2;CFTC S&P 500 speculative net positions
 2025-02-07 23:30;2;CFTC JPY speculative net positions
 2025-02-07 23:30;2;CFTC EUR speculative net positions
-2025-02-09 04:30;2;CPI (MoM)  (Jan)
 2025-02-09 04:30;2;CPI (YoY)  (Jan)
+2025-02-09 04:30;2;CPI (MoM)  (Jan)
 2025-02-09 04:30;2;PPI (YoY)  (Jan)
 2025-02-10 02:50;2;Adjusted Current Account  (Dec)
 2025-02-10 02:50;2;Current Account n.s.a.  (Dec)
@@ -393,10 +392,10 @@
 2025-02-12 13:00;2;ECB's Elderson Speaks
 2025-02-12 13:30;2;CPI (YoY)  (Jan)
 2025-02-12 15:00;2;OPEC Monthly Report
-2025-02-12 16:30;3;Core CPI (MoM)  (Jan)
 2025-02-12 16:30;2;Core CPI (YoY)  (Jan)
-2025-02-12 16:30;3;CPI (YoY)  (Jan)
+2025-02-12 16:30;3;Core CPI (MoM)  (Jan)
 2025-02-12 16:30;3;CPI (MoM)  (Jan)
+2025-02-12 16:30;3;CPI (YoY)  (Jan)
 2025-02-12 18:00;3;Fed Chair Powell Testifies
 2025-02-12 18:30;3;Crude Oil Inventories
 2025-02-12 18:30;2;Cushing Crude Oil Inventories
@@ -405,9 +404,9 @@
 2025-02-12 22:00;2;Federal Budget Balance  (Jan)
 2025-02-13 01:05;2;Fed Waller Speaks
 2025-02-13 10:00;2;Business Investment (QoQ)  (Q4)
-2025-02-13 10:00;3;GDP (QoQ)  (Q4)
 2025-02-13 10:00;3;GDP (YoY)  (Q4)
 2025-02-13 10:00;3;GDP (MoM)  (Dec)
+2025-02-13 10:00;3;GDP (QoQ)  (Q4)
 2025-02-13 10:00;2;Industrial Production (MoM)  (Dec)
 2025-02-13 10:00;2;Manufacturing Production (MoM)  (Dec)
 2025-02-13 10:00;2;Monthly GDP 3M/3M Change  (Dec)
@@ -433,8 +432,8 @@
 2025-02-14 16:30;2;Import Price Index (MoM)  (Jan)
 2025-02-14 16:30;2;Retail Control (MoM)  (Jan)
 2025-02-14 16:30;3;Retail Sales (MoM)  (Jan)
-2025-02-14 17:15;2;Industrial Production (YoY)  (Jan)
 2025-02-14 17:15;2;Industrial Production (MoM)  (Jan)
+2025-02-14 17:15;2;Industrial Production (YoY)  (Jan)
 2025-02-14 18:00;2;Business Inventories (MoM)  (Dec)
 2025-02-14 18:00;2;Retail Inventories Ex Auto  (Dec)
 2025-02-14 21:00;2;Atlanta Fed GDPNow  (Q1)
@@ -461,8 +460,8 @@
 2025-02-18 10:00;2;Employment Change 3M/3M (MoM)  (Dec)
 2025-02-18 10:00;2;Unemployment Rate  (Dec)
 2025-02-18 12:30;2;BoE Gov Bailey Speaks
-2025-02-18 12:30;2;Labour Productivity  (Q4)
 2025-02-18 12:30;2;Labour Productivity  (Q3)
+2025-02-18 12:30;2;Labour Productivity  (Q4)
 2025-02-18 13:00;2;Eurogroup Meetings
 2025-02-18 13:00;2;ZEW Economic Sentiment  (Feb)
 2025-02-18 16:30;2;NY Empire State Manufacturing Index  (Feb)
@@ -478,8 +477,8 @@
 2025-02-19 10:00;2;PPI Input (MoM)  (Jan)
 2025-02-19 11:00;2;European Central Bank Non-monetary Policy Meeting
 2025-02-19 16:30;2;Building Permits  (Jan)
-2025-02-19 16:30;2;Housing Starts (MoM)  (Jan)
 2025-02-19 16:30;2;Housing Starts  (Jan)
+2025-02-19 16:30;2;Housing Starts (MoM)  (Jan)
 2025-02-19 18:30;2;Atlanta Fed GDPNow  (Q1)
 2025-02-19 21:00;2;20-Year Bond Auction
 2025-02-19 22:00;3;FOMC Meeting Minutes
@@ -498,10 +497,10 @@
 2025-02-21 00:30;2;Fed's Balance Sheet
 2025-02-21 02:30;2;National Core CPI (YoY)  (Jan)
 2025-02-21 02:30;2;National CPI (MoM)  (Jan)
-2025-02-21 10:00;2;Core Retail Sales (YoY)  (Jan)
 2025-02-21 10:00;2;Core Retail Sales (MoM)  (Jan)
-2025-02-21 10:00;2;Retail Sales (YoY)  (Jan)
+2025-02-21 10:00;2;Core Retail Sales (YoY)  (Jan)
 2025-02-21 10:00;2;Retail Sales (MoM)  (Jan)
+2025-02-21 10:00;2;Retail Sales (YoY)  (Jan)
 2025-02-21 14:30;2;RBI MPC Meeting Minutes
 2025-02-21 17:30;2;ECB's Lane Speaks
 2025-02-21 18:00;3;Existing Home Sales  (Jan)
@@ -559,8 +558,8 @@
 2025-02-28 10:00;2;Nationwide HPI (YoY)  (Feb)
 2025-02-28 10:00;2;Nationwide HPI (MoM)  (Feb)
 2025-02-28 13:30;2;GDP Quarterly (YoY)  (Q3)
-2025-02-28 16:30;3;Core PCE Price Index (YoY)  (Jan)
 2025-02-28 16:30;3;Core PCE Price Index (MoM)  (Jan)
+2025-02-28 16:30;3;Core PCE Price Index (YoY)  (Jan)
 2025-02-28 16:30;2;Goods Trade Balance  (Jan)
 2025-02-28 16:30;2;PCE Price index (YoY)  (Jan)
 2025-02-28 16:30;2;PCE price index (MoM)  (Jan)
@@ -629,14 +628,14 @@
 2025-03-07 06:20;2;Exports (YoY)  (Feb)
 2025-03-07 06:20;2;Imports (YoY)  (Feb)
 2025-03-07 06:20;2;Trade Balance (USD)  (Feb)
-2025-03-07 10:00;2;Halifax House Price Index (YoY)  (Feb)
 2025-03-07 10:00;2;Halifax House Price Index (MoM)  (Feb)
+2025-03-07 10:00;2;Halifax House Price Index (YoY)  (Feb)
 2025-03-07 12:30;2;Mortgage Rate (GBP)  (Feb)
 2025-03-07 12:30;2;ECB President Lagarde Speaks
 2025-03-07 13:00;2;GDP (QoQ)  (Q4)
 2025-03-07 13:00;2;GDP (YoY)  (Q4)
-2025-03-07 16:30;3;Average Hourly Earnings (MoM)  (Feb)
 2025-03-07 16:30;2;Average Hourly Earnings (YoY) (YoY)  (Feb)
+2025-03-07 16:30;3;Average Hourly Earnings (MoM)  (Feb)
 2025-03-07 16:30;3;Nonfarm Payrolls  (Feb)
 2025-03-07 16:30;2;Participation Rate  (Feb)
 2025-03-07 16:30;2;Private Nonfarm Payrolls  (Feb)
@@ -658,8 +657,8 @@
 2025-03-07 23:30;2;CFTC S&P 500 speculative net positions
 2025-03-07 23:30;2;CFTC JPY speculative net positions
 2025-03-07 23:30;2;CFTC EUR speculative net positions
-2025-03-09 04:30;2;CPI (MoM)  (Feb)
 2025-03-09 04:30;2;CPI (YoY)  (Feb)
+2025-03-09 04:30;2;CPI (MoM)  (Feb)
 2025-03-09 04:30;2;PPI (YoY)  (Feb)
 2025-03-10 02:50;2;Adjusted Current Account  (Jan)
 2025-03-10 02:50;2;Current Account n.s.a.  (Jan)
@@ -794,8 +793,8 @@
 2025-03-20 15:30;3;Initial Jobless Claims
 2025-03-20 15:30;3;Philadelphia Fed Manufacturing Index  (Mar)
 2025-03-20 15:30;2;Philly Fed Employment  (Mar)
-2025-03-20 17:00;2;Existing Home Sales (MoM)  (Feb)
 2025-03-20 17:00;3;Existing Home Sales  (Feb)
+2025-03-20 17:00;2;Existing Home Sales (MoM)  (Feb)
 2025-03-20 17:00;2;US Leading Index (MoM)  (Feb)
 2025-03-20 20:00;2;10-Year TIPS Auction
 2025-03-20 23:30;2;Fed's Balance Sheet
@@ -859,8 +858,8 @@
 2025-03-28 10:00;2;Core Retail Sales (MoM)  (Feb)
 2025-03-28 10:00;2;Core Retail Sales (YoY)  (Feb)
 2025-03-28 10:00;2;Current Account  (Q4)
-2025-03-28 10:00;3;GDP (YoY)  (Q4)
 2025-03-28 10:00;3;GDP (QoQ)  (Q4)
+2025-03-28 10:00;3;GDP (YoY)  (Q4)
 2025-03-28 10:00;2;Retail Sales (YoY)  (Feb)
 2025-03-28 10:00;2;Retail Sales (MoM)  (Feb)
 2025-03-28 10:00;2;Trade Balance  (Jan)
@@ -868,8 +867,8 @@
 2025-03-28 11:30;2;ECB's De Guindos Speaks
 2025-03-28 15:30;3;Core PCE Price Index (YoY)  (Feb)
 2025-03-28 15:30;3;Core PCE Price Index (MoM)  (Feb)
-2025-03-28 15:30;2;PCE price index (MoM)  (Feb)
 2025-03-28 15:30;2;PCE Price index (YoY)  (Feb)
+2025-03-28 15:30;2;PCE price index (MoM)  (Feb)
 2025-03-28 15:30;2;Personal Spending (MoM)  (Feb)
 2025-03-28 17:00;2;Michigan 1-Year Inflation Expectations  (Mar)
 2025-03-28 17:00;2;Michigan 5-Year Inflation Expectations  (Mar)
@@ -937,8 +936,8 @@
 2025-04-04 02:30;2;Household Spending (MoM)  (Feb)
 2025-04-04 02:30;2;Household Spending (YoY)  (Feb)
 2025-04-04 11:00;2;ECB's De Guindos Speaks
-2025-04-04 15:30;2;Average Hourly Earnings (YoY) (YoY)  (Mar)
 2025-04-04 15:30;3;Average Hourly Earnings (MoM)  (Mar)
+2025-04-04 15:30;2;Average Hourly Earnings (YoY) (YoY)  (Mar)
 2025-04-04 15:30;3;Nonfarm Payrolls  (Mar)
 2025-04-04 15:30;2;Participation Rate  (Mar)
 2025-04-04 15:30;2;Private Nonfarm Payrolls  (Mar)
@@ -1079,8 +1078,8 @@
 2025-04-17 15:15;3;ECB Interest Rate Decision  (Apr)
 2025-04-17 15:30;2;Building Permits  (Mar)
 2025-04-17 15:30;2;Continuing Jobless Claims
-2025-04-17 15:30;2;Housing Starts  (Mar)
 2025-04-17 15:30;2;Housing Starts (MoM)  (Mar)
+2025-04-17 15:30;2;Housing Starts  (Mar)
 2025-04-17 15:30;3;Initial Jobless Claims
 2025-04-17 15:30;3;Philadelphia Fed Manufacturing Index  (Apr)
 2025-04-17 15:30;2;Philly Fed Employment  (Apr)
@@ -1130,15 +1129,15 @@
 2025-04-24 15:30;3;Durable Goods Orders (MoM)  (Mar)
 2025-04-24 15:30;3;Initial Jobless Claims
 2025-04-24 16:00;2;ECB's Lane Speaks
-2025-04-24 17:00;3;Existing Home Sales  (Mar)
 2025-04-24 17:00;2;Existing Home Sales (MoM)  (Mar)
+2025-04-24 17:00;3;Existing Home Sales  (Mar)
 2025-04-24 20:00;2;7-Year Note Auction
 2025-04-24 20:00;2;Atlanta Fed GDPNow  (Q1)
 2025-04-24 23:30;2;Fed's Balance Sheet
 2025-04-25 00:00;2;FOMC Member Kashkari Speaks
 2025-04-25 02:30;2;Tokyo Core CPI (YoY)  (Apr)
-2025-04-25 09:00;2;Core Retail Sales (MoM)  (Mar)
 2025-04-25 09:00;2;Core Retail Sales (YoY)  (Mar)
+2025-04-25 09:00;2;Core Retail Sales (MoM)  (Mar)
 2025-04-25 09:00;2;Retail Sales (YoY)  (Mar)
 2025-04-25 09:00;2;Retail Sales (MoM)  (Mar)
 2025-04-25 17:00;2;Michigan 1-Year Inflation Expectations  (Apr)
@@ -1181,8 +1180,8 @@
 2025-04-30 16:45;3;Chicago PMI  (Apr)
 2025-04-30 17:00;3;Core PCE Price Index (YoY)  (Mar)
 2025-04-30 17:00;3;Core PCE Price Index (MoM)  (Mar)
-2025-04-30 17:00;2;PCE Price index (YoY)  (Mar)
 2025-04-30 17:00;2;PCE price index (MoM)  (Mar)
+2025-04-30 17:00;2;PCE Price index (YoY)  (Mar)
 2025-04-30 17:00;2;Pending Home Sales (MoM)  (Mar)
 2025-04-30 17:00;2;Personal Spending (MoM)  (Mar)
 2025-04-30 17:30;3;Crude Oil Inventories
@@ -1204,8 +1203,8 @@
 2025-05-01 23:30;2;Fed's Balance Sheet
 2025-05-02 11:00;2;ECB Economic Bulletin
 2025-05-02 12:00;2;Core CPI (YoY)  (Apr)
-2025-05-02 12:00;2;CPI (MoM)  (Apr)
 2025-05-02 12:00;3;CPI (YoY)  (Apr)
+2025-05-02 12:00;2;CPI (MoM)  (Apr)
 2025-05-02 12:00;2;Unemployment Rate  (Mar)
 2025-05-02 15:30;2;Average Hourly Earnings (YoY) (YoY)  (Apr)
 2025-05-02 15:30;3;Average Hourly Earnings (MoM)  (Apr)
@@ -1245,8 +1244,8 @@
 2025-05-07 22:00;2;Consumer Credit  (Mar)
 2025-05-08 02:50;2;Monetary Policy Meeting Minutes
 2025-05-08 06:35;2;10-Year JGB Auction
-2025-05-08 09:00;2;Halifax House Price Index (YoY)  (Apr)
 2025-05-08 09:00;2;Halifax House Price Index (MoM)  (Apr)
+2025-05-08 09:00;2;Halifax House Price Index (YoY)  (Apr)
 2025-05-08 11:30;2;Mortgage Rate (GBP)  (Apr)
 2025-05-08 14:00;2;BoE MPC Meeting Minutes
 2025-05-08 14:02;2;BoE MPC vote cut  (May)
@@ -1263,8 +1262,8 @@
 2025-05-08 18:30;2;Atlanta Fed GDPNow  (Q2)
 2025-05-08 20:00;3;30-Year Bond Auction
 2025-05-08 23:30;2;Fed's Balance Sheet
-2025-05-09 02:30;2;Household Spending (YoY)  (Mar)
 2025-05-09 02:30;2;Household Spending (MoM)  (Mar)
+2025-05-09 02:30;2;Household Spending (YoY)  (Mar)
 2025-05-09 06:00;2;Exports (YoY)  (Apr)
 2025-05-09 06:00;2;Imports (YoY)  (Apr)
 2025-05-09 06:00;2;Trade Balance (USD)  (Apr)
@@ -1302,8 +1301,8 @@
 2025-05-13 11:45;2;BoE MPC Member Pill Speaks
 2025-05-13 12:00;2;ZEW Economic Sentiment  (May)
 2025-05-13 13:30;2;CPI (YoY)  (Apr)
-2025-05-13 15:30;3;Core CPI (MoM)  (Apr)
 2025-05-13 15:30;2;Core CPI (YoY)  (Apr)
+2025-05-13 15:30;3;Core CPI (MoM)  (Apr)
 2025-05-13 15:30;3;CPI (MoM)  (Apr)
 2025-05-13 15:30;3;CPI (YoY)  (Apr)
 2025-05-13 18:00;2;BoE Gov Bailey Speaks
@@ -1318,9 +1317,9 @@
 2025-05-14 17:30;2;Cushing Crude Oil Inventories
 2025-05-15 00:40;2;FOMC Member Daly Speaks
 2025-05-15 09:00;2;Business Investment (QoQ)  (Q1)
+2025-05-15 09:00;3;GDP (YoY)  (Q1)
 2025-05-15 09:00;3;GDP (QoQ)  (Q1)
 2025-05-15 09:00;3;GDP (MoM)  (Mar)
-2025-05-15 09:00;3;GDP (YoY)  (Q1)
 2025-05-15 09:00;2;Industrial Production (MoM)  (Mar)
 2025-05-15 09:00;2;Manufacturing Production (MoM)  (Mar)
 2025-05-15 09:00;2;Monthly GDP 3M/3M Change  (Mar)
@@ -1347,8 +1346,8 @@
 2025-05-15 15:30;2;Retail Control (MoM)  (Apr)
 2025-05-15 15:30;3;Retail Sales (MoM)  (Apr)
 2025-05-15 15:40;3;Fed Chair Powell Speaks
-2025-05-15 16:15;2;Industrial Production (MoM)  (Apr)
 2025-05-15 16:15;2;Industrial Production (YoY)  (Apr)
+2025-05-15 16:15;2;Industrial Production (MoM)  (Apr)
 2025-05-15 17:00;2;Business Inventories (MoM)  (Mar)
 2025-05-15 17:00;2;Retail Inventories Ex Auto  (Mar)
 2025-05-15 20:00;2;Atlanta Fed GDPNow  (Q2)
@@ -1364,8 +1363,8 @@
 2025-05-16 13:00;2;EU Economic Forecasts
 2025-05-16 15:30;2;Building Permits  (Apr)
 2025-05-16 15:30;2;Export Price Index (MoM)  (Apr)
-2025-05-16 15:30;2;Housing Starts  (Apr)
 2025-05-16 15:30;2;Housing Starts (MoM)  (Apr)
+2025-05-16 15:30;2;Housing Starts  (Apr)
 2025-05-16 15:30;2;Import Price Index (MoM)  (Apr)
 2025-05-16 17:00;2;Michigan 1-Year Inflation Expectations  (May)
 2025-05-16 17:00;2;Michigan 5-Year Inflation Expectations  (May)
@@ -1406,8 +1405,8 @@
 2025-05-21 02:50;2;Adjusted Trade Balance
 2025-05-21 02:50;2;Exports (YoY)  (Apr)
 2025-05-21 02:50;2;Trade Balance  (Apr)
-2025-05-21 09:00;3;CPI (YoY)  (Apr)
 2025-05-21 09:00;2;CPI (MoM)  (Apr)
+2025-05-21 09:00;3;CPI (YoY)  (Apr)
 2025-05-21 10:00;2;European Central Bank Non-monetary Policy Meeting
 2025-05-21 11:00;2;ECB Financial Stability Review
 2025-05-21 17:30;3;Crude Oil Inventories
@@ -1430,8 +1429,8 @@
 2025-05-23 02:30;2;National Core CPI (YoY)  (Apr)
 2025-05-23 09:00;2;Core Retail Sales (YoY)  (Apr)
 2025-05-23 09:00;2;Core Retail Sales (MoM)  (Apr)
-2025-05-23 09:00;2;Retail Sales (MoM)  (Apr)
 2025-05-23 09:00;2;Retail Sales (YoY)  (Apr)
+2025-05-23 09:00;2;Retail Sales (MoM)  (Apr)
 2025-05-23 11:30;2;ECB's Lane Speaks
 2025-05-23 15:10;2;Building Permits  (Apr)
 2025-05-23 17:00;2;New Home Sales (MoM)  (Apr)
@@ -1452,8 +1451,8 @@
 2025-05-27 11:00;2;FOMC Member Kashkari Speaks
 2025-05-27 15:30;2;Core Durable Goods Orders (MoM)  (Apr)
 2025-05-27 15:30;3;Durable Goods Orders (MoM)  (Apr)
-2025-05-27 16:00;2;S&P/CS HPI Composite - 20 n.s.a. (MoM)  (Mar)
 2025-05-27 16:00;2;S&P/CS HPI Composite - 20 n.s.a. (YoY)  (Mar)
+2025-05-27 16:00;2;S&P/CS HPI Composite - 20 n.s.a. (MoM)  (Mar)
 2025-05-27 17:00;3;CB Consumer Confidence  (May)
 2025-05-27 17:30;2;Atlanta Fed GDPNow  (Q2)
 2025-05-27 20:00;2;2-Year Note Auction
@@ -1484,8 +1483,8 @@
 2025-05-30 15:30;3;Core PCE Price Index (YoY)  (Apr)
 2025-05-30 15:30;3;Core PCE Price Index (MoM)  (Apr)
 2025-05-30 15:30;2;Goods Trade Balance  (Apr)
-2025-05-30 15:30;2;PCE Price index (YoY)  (Apr)
 2025-05-30 15:30;2;PCE price index (MoM)  (Apr)
+2025-05-30 15:30;2;PCE Price index (YoY)  (Apr)
 2025-05-30 15:30;2;Personal Spending (MoM)  (Apr)
 2025-05-30 15:30;2;Retail Inventories Ex Auto  (Apr)
 2025-05-30 16:45;3;Chicago PMI  (May)
@@ -1509,8 +1508,8 @@
 2025-05-31 04:30;2;Non-Manufacturing PMI  (May)
 2025-06-02 02:50;2;Capital Spending (YoY)  (Q1)
 2025-06-02 03:00;2;Fed Waller Speaks
-2025-06-02 09:00;2;Nationwide HPI (YoY)  (May)
 2025-06-02 09:00;2;Nationwide HPI (MoM)  (May)
+2025-06-02 09:00;2;Nationwide HPI (YoY)  (May)
 2025-06-02 17:00;2;BoE MPC Member Mann Speaks
 2025-06-02 17:00;2;Construction Spending (MoM)  (Apr)
 2025-06-02 17:00;2;ISM Manufacturing Employment  (May)
@@ -1520,11 +1519,10 @@
 2025-06-02 19:30;2;ECB President Lagarde Speaks
 2025-06-02 20:00;3;Fed Chair Powell Speaks
 2025-06-03 00:30;2;BoE MPC Member Mann Speaks
-2025-06-03 04:45;2;Caixin Manufacturing PMI (MoM)  (May)
 2025-06-03 06:35;2;10-Year JGB Auction
 2025-06-03 12:00;2;Core CPI (YoY)  (May)
-2025-06-03 12:00;2;CPI (MoM)  (May)
 2025-06-03 12:00;3;CPI (YoY)  (May)
+2025-06-03 12:00;2;CPI (MoM)  (May)
 2025-06-03 12:00;2;Unemployment Rate  (Apr)
 2025-06-03 12:15;2;BoE MPC Treasury Committee Hearings
 2025-06-03 17:00;2;Factory Orders (MoM)  (Apr)
@@ -1557,17 +1555,17 @@
 2025-06-05 19:00;2;Atlanta Fed GDPNow  (Q2)
 2025-06-05 20:30;2;FOMC Member Harker Speaks
 2025-06-05 23:30;2;Fed's Balance Sheet
-2025-06-06 02:30;2;Household Spending (YoY)  (Apr)
 2025-06-06 02:30;2;Household Spending (MoM)  (Apr)
+2025-06-06 02:30;2;Household Spending (YoY)  (Apr)
 2025-06-06 07:30;2;Interest Rate Decision
-2025-06-06 09:00;2;Halifax House Price Index (YoY)  (May)
 2025-06-06 09:00;2;Halifax House Price Index (MoM)  (May)
+2025-06-06 09:00;2;Halifax House Price Index (YoY)  (May)
 2025-06-06 11:30;2;Mortgage Rate (GBP)  (May)
 2025-06-06 11:30;2;ECB President Lagarde Speaks
-2025-06-06 12:00;2;GDP (YoY)  (Q1)
 2025-06-06 12:00;2;GDP (QoQ)  (Q1)
-2025-06-06 15:30;3;Average Hourly Earnings (MoM)  (May)
+2025-06-06 12:00;2;GDP (YoY)  (Q1)
 2025-06-06 15:30;2;Average Hourly Earnings (YoY) (YoY)  (May)
+2025-06-06 15:30;3;Average Hourly Earnings (MoM)  (May)
 2025-06-06 15:30;3;Nonfarm Payrolls  (May)
 2025-06-06 15:30;2;Participation Rate  (May)
 2025-06-06 15:30;2;Private Nonfarm Payrolls  (May)
@@ -1611,10 +1609,10 @@
 2025-06-10 23:30;2;API Weekly Crude Oil Stock
 2025-06-11 06:15;2;ECB President Lagarde Speaks
 2025-06-11 12:30;2;ECB's Lane Speaks
-2025-06-11 15:30;3;Core CPI (MoM)  (May)
 2025-06-11 15:30;2;Core CPI (YoY)  (May)
-2025-06-11 15:30;3;CPI (YoY)  (May)
+2025-06-11 15:30;3;Core CPI (MoM)  (May)
 2025-06-11 15:30;3;CPI (MoM)  (May)
+2025-06-11 15:30;3;CPI (YoY)  (May)
 2025-06-11 17:30;3;Crude Oil Inventories
 2025-06-11 17:30;2;Cushing Crude Oil Inventories
 2025-06-11 21:00;3;10-Year Note Auction
@@ -1742,20 +1740,10 @@
 2025-06-20 23:30;2;Fed's Balance Sheet
 2025-06-22 05:00;3;U.S. President Trump Speaks
 2025-06-22 20:15;2;FOMC Member Daly Speaks
-2025-06-23 03:30;2;au Jibun Bank Services PMI  (Jun)
 2025-06-23 10:00;2;Fed Waller Speaks
-2025-06-23 11:00;2;HCOB Eurozone Manufacturing PMI  (Jun)
-2025-06-23 11:00;2;HCOB Eurozone Composite PMI  (Jun)
-2025-06-23 11:00;2;HCOB Eurozone Services PMI  (Jun)
-2025-06-23 11:30;2;S&P Global Composite PMI  (Jun)
-2025-06-23 11:30;2;S&P Global Manufacturing PMI  (Jun)
-2025-06-23 11:30;2;S&P Global Services PMI  (Jun)
 2025-06-23 16:00;2;ECB President Lagarde Speaks
-2025-06-23 16:45;3;S&P Global Manufacturing PMI  (Jun)
-2025-06-23 16:45;2;S&P Global Composite PMI  (Jun)
-2025-06-23 16:45;3;S&P Global Services PMI  (Jun)
-2025-06-23 17:00;2;Existing Home Sales (MoM)  (May)
 2025-06-23 17:00;3;Existing Home Sales  (May)
+2025-06-23 17:00;2;Existing Home Sales (MoM)  (May)
 2025-06-23 17:00;2;FOMC Member Bowman Speaks
 2025-06-23 21:30;2;FOMC Member Williams Speaks
 2025-06-23 22:30;2;CFTC GBP speculative net positions
@@ -1839,8 +1827,8 @@
 2025-06-30 04:30;2;Non-Manufacturing PMI  (Jun)
 2025-06-30 09:00;2;Business Investment (QoQ)  (Q1)
 2025-06-30 09:00;2;Current Account  (Q1)
-2025-06-30 09:00;3;GDP (QoQ)  (Q1)
 2025-06-30 09:00;3;GDP (YoY)  (Q1)
+2025-06-30 09:00;3;GDP (QoQ)  (Q1)
 2025-06-30 11:30;2;ECB's De Guindos Speaks
 2025-06-30 16:45;3;Chicago PMI  (Jun)
 2025-06-30 17:00;2;FOMC Member Bostic Speaks
@@ -1851,11 +1839,9 @@
 2025-07-01 02:50;2;Tankan Large Non-Manufacturers Index  (Q2)
 2025-07-01 04:45;2;Caixin Manufacturing PMI (MoM)  (Jun)
 2025-07-01 06:35;2;10-Year JGB Auction
-2025-07-01 09:00;2;Nationwide HPI (YoY)  (Jun)
 2025-07-01 09:00;2;Nationwide HPI (MoM)  (Jun)
+2025-07-01 09:00;2;Nationwide HPI (YoY)  (Jun)
 2025-07-01 10:40;2;ECB's De Guindos Speaks
-2025-07-01 11:00;2;HCOB Eurozone Manufacturing PMI  (Jun)
-2025-07-01 11:30;2;S&P Global Manufacturing PMI  (Jun)
 2025-07-01 11:40;2;ECB's Elderson Speaks
 2025-07-01 12:00;2;Core CPI (YoY)  (Jun)
 2025-07-01 12:00;2;CPI (MoM)  (Jun)
@@ -1864,7 +1850,6 @@
 2025-07-01 16:30;2;BoE Gov Bailey Speaks
 2025-07-01 16:30;3;Fed Chair Powell Speaks
 2025-07-01 16:30;2;ECB President Lagarde Speaks
-2025-07-01 16:45;3;S&P Global Manufacturing PMI  (Jun)
 2025-07-01 17:00;2;Construction Spending (MoM)  (May)
 2025-07-01 17:00;2;ISM Manufacturing Employment  (Jun)
 2025-07-01 17:00;3;ISM Manufacturing PMI  (Jun)
@@ -1978,9 +1963,10 @@
 2025-07-14 06:00;2;Trade Balance (USD)  (Jun)
 2025-07-14 07:30;2;Industrial Production (MoM)  (May)
 2025-07-14 09:30;2;WPI Inflation (YoY)  (Jun)
-2025-07-14 13:00;2;New Loans  (Jun)
+2025-07-14 10:00;2;New Loans  (Jun)
 2025-07-14 13:00;2;Eurogroup Meetings
 2025-07-14 13:30;2;CPI (YoY)  (Jun)
+2025-07-14 16:00;2;BoE Gov Bailey Speaks
 2025-07-15 02:01;2;BRC Retail Sales Monitor (YoY)  (Jun)
 2025-07-15 05:00;2;Fixed Asset Investment (YoY)  (Jun)
 2025-07-15 05:00;2;GDP (QoQ)  (Q2)
@@ -1995,21 +1981,22 @@
 2025-07-15 14:00;2;OPEC Monthly Report
 2025-07-15 15:30;2;Core CPI (YoY)  (Jun)
 2025-07-15 15:30;3;Core CPI (MoM)  (Jun)
-2025-07-15 15:30;3;CPI (YoY)  (Jun)
 2025-07-15 15:30;3;CPI (MoM)  (Jun)
+2025-07-15 15:30;3;CPI (YoY)  (Jun)
 2025-07-15 15:30;2;NY Empire State Manufacturing Index  (Jul)
 2025-07-15 16:15;2;FOMC Member Bowman Speaks
 2025-07-15 19:45;2;Fed Vice Chair for Supervision Barr Speaks
 2025-07-15 23:00;2;BoE Gov Bailey Speaks
 2025-07-15 23:30;2;API Weekly Crude Oil Stock
-2025-07-16 09:00;3;CPI (YoY)  (Jun)
 2025-07-16 09:00;2;CPI (MoM)  (Jun)
+2025-07-16 09:00;3;CPI (YoY)  (Jun)
 2025-07-16 09:00;2;CPIH (YoY)
 2025-07-16 12:00;2;Trade Balance  (May)
 2025-07-16 15:30;2;Core PPI (MoM)  (Jun)
 2025-07-16 15:30;3;PPI (MoM)  (Jun)
-2025-07-16 16:15;2;Industrial Production (YoY)  (Jun)
 2025-07-16 16:15;2;Industrial Production (MoM)  (Jun)
+2025-07-16 16:15;2;Industrial Production (YoY)  (Jun)
+2025-07-16 17:00;2;Fed Vice Chair for Supervision Barr Speaks
 2025-07-16 17:30;3;Crude Oil Inventories
 2025-07-16 17:30;2;Cushing Crude Oil Inventories
 2025-07-16 21:00;2;Beige Book
@@ -2035,14 +2022,16 @@
 2025-07-17 15:30;3;Retail Sales (MoM)  (Jun)
 2025-07-17 17:00;2;Business Inventories (MoM)  (May)
 2025-07-17 17:00;2;Retail Inventories Ex Auto  (May)
+2025-07-17 19:00;2;Atlanta Fed GDPNow  (Q2)
 2025-07-17 19:45;2;FOMC Member Daly Speaks
-2025-07-17 20:00;2;Atlanta Fed GDPNow  (Q2)
 2025-07-17 23:00;2;TIC Net Long-Term Transactions  (May)
+2025-07-17 23:30;2;Fed's Balance Sheet
 2025-07-18 01:30;2;Fed Waller Speaks
 2025-07-18 02:30;2;National Core CPI (YoY)  (Jun)
+2025-07-18 02:30;2;National CPI (MoM)  (Jun)
 2025-07-18 15:30;2;Building Permits  (Jun)
-2025-07-18 15:30;2;Housing Starts  (Jun)
 2025-07-18 15:30;2;Housing Starts (MoM)  (Jun)
+2025-07-18 15:30;2;Housing Starts  (Jun)
 2025-07-18 17:00;2;Michigan 1-Year Inflation Expectations  (Jul)
 2025-07-18 17:00;2;Michigan 5-Year Inflation Expectations  (Jul)
 2025-07-18 17:00;2;Michigan Consumer Expectations  (Jul)
@@ -2050,11 +2039,27 @@
 2025-07-18 18:30;2;Atlanta Fed GDPNow  (Q2)
 2025-07-18 20:00;2;U.S. Baker Hughes Oil Rig Count
 2025-07-18 20:00;2;U.S. Baker Hughes Total Rig Count
-2025-07-20 04:15;2;PBoC Loan Prime Rate
+2025-07-18 22:30;2;CFTC GBP speculative net positions
+2025-07-18 22:30;2;CFTC Crude Oil speculative net positions
+2025-07-18 22:30;2;CFTC Gold speculative net positions
+2025-07-18 22:30;2;CFTC Nasdaq 100 speculative net positions
+2025-07-18 22:30;2;CFTC S&P 500 speculative net positions
+2025-07-18 22:30;2;CFTC JPY speculative net positions
+2025-07-18 22:30;2;CFTC EUR speculative net positions
 2025-07-21 04:00;2;China Loan Prime Rate 5Y  (Jul)
+2025-07-21 04:00;2;PBoC Loan Prime Rate
 2025-07-21 17:00;2;US Leading Index (MoM)  (Jun)
+2025-07-22 12:15;2;BoE Gov Bailey Speaks
+2025-07-22 15:30;3;Fed Chair Powell Speaks
+2025-07-22 20:00;2;FOMC Member Bowman Speaks
+2025-07-22 20:00;2;ECB President Lagarde Speaks
+2025-07-22 23:30;2;API Weekly Crude Oil Stock
+2025-07-23 08:00;2;BoJ Core CPI (YoY)
 2025-07-23 17:00;2;Existing Home Sales (MoM)  (Jun)
 2025-07-23 17:00;3;Existing Home Sales  (Jun)
+2025-07-23 17:30;3;Crude Oil Inventories
+2025-07-23 17:30;2;Cushing Crude Oil Inventories
+2025-07-23 20:00;2;20-Year Bond Auction
 2025-07-24 03:30;2;au Jibun Bank Services PMI  (Jul)
 2025-07-24 11:00;2;HCOB Eurozone Manufacturing PMI  (Jul)
 2025-07-24 11:00;2;HCOB Eurozone Composite PMI  (Jul)
@@ -2063,20 +2068,37 @@
 2025-07-24 11:30;2;S&P Global Manufacturing PMI  (Jul)
 2025-07-24 11:30;2;S&P Global Services PMI  (Jul)
 2025-07-24 15:15;3;Deposit Facility Rate  (Jul)
+2025-07-24 15:15;2;ECB Marginal Lending Facility
+2025-07-24 15:15;2;ECB Monetary Policy Statement
 2025-07-24 15:15;3;ECB Interest Rate Decision  (Jul)
+2025-07-24 15:30;2;Building Permits  (Jun)
+2025-07-24 15:30;2;Continuing Jobless Claims
+2025-07-24 15:30;3;Initial Jobless Claims
+2025-07-24 15:45;3;ECB Press Conference
 2025-07-24 16:45;3;S&P Global Manufacturing PMI  (Jul)
 2025-07-24 16:45;2;S&P Global Composite PMI  (Jul)
 2025-07-24 16:45;3;S&P Global Services PMI  (Jul)
 2025-07-24 17:00;2;New Home Sales (MoM)  (Jun)
 2025-07-24 17:00;3;New Home Sales  (Jun)
+2025-07-24 20:00;2;10-Year TIPS Auction
+2025-07-24 23:30;2;Fed's Balance Sheet
 2025-07-25 02:30;2;Tokyo Core CPI (YoY)  (Jul)
-2025-07-25 09:00;2;Core Retail Sales (YoY)  (Jun)
 2025-07-25 09:00;2;Core Retail Sales (MoM)  (Jun)
-2025-07-25 09:00;2;Retail Sales (YoY)  (Jun)
+2025-07-25 09:00;2;Core Retail Sales (YoY)  (Jun)
 2025-07-25 09:00;2;Retail Sales (MoM)  (Jun)
+2025-07-25 09:00;2;Retail Sales (YoY)  (Jun)
 2025-07-25 15:30;2;Core Durable Goods Orders (MoM)  (Jun)
 2025-07-25 15:30;3;Durable Goods Orders (MoM)  (Jun)
 2025-07-25 18:30;2;Atlanta Fed GDPNow  (Q2)
+2025-07-25 20:00;2;U.S. Baker Hughes Oil Rig Count
+2025-07-25 20:00;2;U.S. Baker Hughes Total Rig Count
+2025-07-25 22:30;2;CFTC GBP speculative net positions
+2025-07-25 22:30;2;CFTC Crude Oil speculative net positions
+2025-07-25 22:30;2;CFTC Gold speculative net positions
+2025-07-25 22:30;2;CFTC Nasdaq 100 speculative net positions
+2025-07-25 22:30;2;CFTC S&P 500 speculative net positions
+2025-07-25 22:30;2;CFTC JPY speculative net positions
+2025-07-25 22:30;2;CFTC EUR speculative net positions
 2025-07-29 15:30;2;Goods Trade Balance  (Jun)
 2025-07-29 15:30;2;Retail Inventories Ex Auto  (Jun)
 2025-07-29 16:00;2;S&P/CS HPI Composite - 20 n.s.a. (MoM)  (May)
@@ -2098,14 +2120,17 @@
 2025-07-31 04:30;3;Manufacturing PMI  (Jul)
 2025-07-31 04:30;2;Non-Manufacturing PMI  (Jul)
 2025-07-31 12:00;2;Unemployment Rate  (Jun)
+2025-07-31 15:30;2;Continuing Jobless Claims
 2025-07-31 15:30;3;Core PCE Price Index (MoM)  (Jun)
 2025-07-31 15:30;3;Core PCE Price Index (YoY)  (Jun)
 2025-07-31 15:30;2;Employment Cost Index (QoQ)  (Q2)
+2025-07-31 15:30;3;Initial Jobless Claims
 2025-07-31 15:30;2;PCE Price index (YoY)  (Jun)
 2025-07-31 15:30;2;PCE price index (MoM)  (Jun)
 2025-07-31 15:30;2;Personal Spending (MoM)  (Jun)
 2025-07-31 16:45;3;Chicago PMI  (Jul)
 2025-07-31 18:30;2;Atlanta Fed GDPNow  (Q3)
+2025-07-31 23:30;2;Fed's Balance Sheet
 2025-08-01 04:45;2;Caixin Manufacturing PMI (MoM)  (Jul)
 2025-08-01 11:00;2;HCOB Eurozone Manufacturing PMI  (Jul)
 2025-08-01 11:30;2;S&P Global Manufacturing PMI  (Jul)
@@ -2127,8 +2152,49 @@
 2025-08-01 17:00;2;Michigan Consumer Expectations  (Jul)
 2025-08-01 17:00;2;Michigan Consumer Sentiment  (Jul)
 2025-08-01 20:00;2;Atlanta Fed GDPNow  (Q3)
+2025-08-01 20:00;2;U.S. Baker Hughes Oil Rig Count
+2025-08-01 20:00;2;U.S. Baker Hughes Total Rig Count
+2025-08-04 17:00;2;Factory Orders (MoM)  (Jun)
+2025-08-05 03:30;2;au Jibun Bank Services PMI  (Jul)
+2025-08-05 04:45;2;Caixin Services PMI  (Jul)
+2025-08-05 11:00;2;HCOB Eurozone Composite PMI  (Jul)
+2025-08-05 11:00;2;HCOB Eurozone Services PMI  (Jul)
+2025-08-05 11:30;2;S&P Global Composite PMI  (Jul)
+2025-08-05 11:30;2;S&P Global Services PMI  (Jul)
+2025-08-05 15:30;2;Trade Balance  (Jun)
+2025-08-05 16:45;2;S&P Global Composite PMI  (Jul)
+2025-08-05 16:45;3;S&P Global Services PMI  (Jul)
+2025-08-05 17:00;2;ISM Non-Manufacturing Employment  (Jul)
+2025-08-05 17:00;3;ISM Non-Manufacturing PMI  (Jul)
+2025-08-05 17:00;3;ISM Non-Manufacturing Prices  (Jul)
 2025-08-05 20:00;2;Atlanta Fed GDPNow  (Q3)
+2025-08-06 11:30;2;S&P Global Construction PMI  (Jul)
+2025-08-07 06:00;2;Imports (YoY)  (Jul)
+2025-08-07 06:00;2;Trade Balance (USD)  (Jul)
+2025-08-07 06:00;2;Exports (YoY)  (Jul)
+2025-08-07 09:00;2;Halifax House Price Index (MoM)  (Jul)
+2025-08-07 09:00;2;Halifax House Price Index (YoY)  (Jul)
+2025-08-07 14:00;2;BoE MPC vote cut  (Aug)
+2025-08-07 14:00;2;BoE MPC vote hike  (Aug)
+2025-08-07 14:00;2;BoE MPC vote unchanged  (Aug)
+2025-08-07 14:00;3;BoE Interest Rate Decision  (Aug)
+2025-08-07 15:30;2;Nonfarm Productivity (QoQ)  (Q2)
+2025-08-07 15:30;2;Unit Labor Costs (QoQ)  (Q2)
 2025-08-07 20:00;2;Atlanta Fed GDPNow  (Q3)
+2025-08-07 22:00;2;Consumer Credit  (Jun)
+2025-08-08 02:30;2;Household Spending (YoY)  (Jun)
+2025-08-08 02:30;2;Household Spending (MoM)  (Jun)
+2025-08-08 02:50;2;Adjusted Current Account  (Jun)
+2025-08-08 02:50;2;Current Account n.s.a.  (Jun)
+2025-08-09 04:30;2;CPI (MoM)  (Jul)
+2025-08-09 04:30;2;CPI (YoY)  (Jul)
+2025-08-09 04:30;2;PPI (YoY)  (Jul)
+2025-08-12 02:01;2;BRC Retail Sales Monitor (YoY)  (Jul)
+2025-08-12 09:00;2;Average Earnings Index +Bonus  (Jun)
+2025-08-12 09:00;2;Claimant Count Change  (Jul)
+2025-08-12 09:00;2;Employment Change 3M/3M (MoM)  (Jun)
+2025-08-12 09:00;2;Unemployment Rate  (Jun)
+2025-08-12 12:00;2;ZEW Economic Sentiment  (Aug)
 2025-08-12 14:00;2;OPEC Monthly Report
 2025-08-15 20:00;2;Atlanta Fed GDPNow  (Q3)
 2025-08-19 18:30;2;Atlanta Fed GDPNow  (Q3)
